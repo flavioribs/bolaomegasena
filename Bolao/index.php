@@ -180,6 +180,13 @@
 	conferir('01-04-11-48-50-52-58', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
 	conferir('10-25-31-37-45-51-54', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
 	conferir('02-08-23-26-40-50-55', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	
+	conferir('04-20-29-30-33-51-56', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('03-09-12-23-36-37-47', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('07-12-13-19-33-42-53', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('01-04-09-34-44-48-58', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('06-17-20-25-26-29-50', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	
 	echo '</ul>';
 ?>		
 			Criado por: <b>Flavio Ribeiro</b>
