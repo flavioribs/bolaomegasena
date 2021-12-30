@@ -160,14 +160,26 @@
 	
 	echo '<ul>';
 	conferir('02-08-11-20-36-37-42-45-52-58', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);
+
 	conferir('04-08-11-23-37-52-53-54-56', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);	
 	conferir('09-11-12-32-42-46-47-56-57', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);	
+	
 	conferir('05-07-15-25-33-38-55-59', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);		
 	conferir('10-24-27-29-31-36-41-55', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);		
 	conferir('02-16-24-28-29-37-46-50', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);		
 	conferir('01-07-11-24-27-40-43-58', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);		
 	conferir('13-18-23-34-43-47-52-59', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
 	
+	conferir('09-14-36-40-45-52-59', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('15-18-32-41-43-52-57', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('05-16-17-40-51-57-60', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('08-22-23-29-34-35-53', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('01-13-16-38-39-45-50', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('10-16-18-34-41-43-56', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('19-38-44-46-47-53-56', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('01-04-11-48-50-52-58', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('10-25-31-37-45-51-54', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
+	conferir('02-08-23-26-40-50-55', $dez1, $dez2, $dez3, $dez4, $dez5, $dez6);			
 	echo '</ul>';
 ?>		
 			Criado por: <b>Flavio Ribeiro</b>
